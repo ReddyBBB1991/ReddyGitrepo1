@@ -1,7 +1,7 @@
 #This is a python prg
 
-a=5
-b=6
+a=7
+b=8
 
 sum=a+b
 
